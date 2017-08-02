@@ -5,7 +5,6 @@ package cn.itcast.test;
  */
 public class Heoo {
     public static void main(String[] args) {
-        //测试
         System.out.println("Heo WORD");
     }
 }
